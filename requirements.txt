@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+python-decouple
+pydantic[email]
+google-cloud-storage
+boto3
+python-multipart
